@@ -5,10 +5,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0152-maximum-product-subarray](https://github.com/Shiva17ag/DSA/tree/master/0152-maximum-product-subarray) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/Shiva17ag/DSA/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0152-maximum-product-subarray](https://github.com/Shiva17ag/DSA/tree/master/0152-maximum-product-subarray) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/Shiva17ag/DSA/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Math
 |  |
 | ------- |
@@ -17,4 +19,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3360-stone-removal-game](https://github.com/Shiva17ag/DSA/tree/master/3360-stone-removal-game) |
+## Greedy
+|  |
+| ------- |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/Shiva17ag/DSA/tree/master/3946-maximum-number-of-items-from-sale-i) |
 <!---LeetCode Topics End-->
